@@ -2,12 +2,6 @@
 
 Repo: https://github.com/ucsb-cs156-w24/jpa02-haojustin
 
-* TODO: Correct the "deployed at" link to app on Dokku
-  then delete this TODO.  Replace it with 
-  a link to your running app on Dokku, e.g.
-  https://jpa02-cgaucho.dokku-05.cs.ucsb.edu
-
-
 Deployed at: http://jpa02-haojustin.dokku-05.cs.ucsb.edu/
 
 
